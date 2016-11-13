@@ -8,8 +8,8 @@
 		<artifactId>design-patterns-parent</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>design-patterns-hello</artifactId>
-	<name>design-patterns-hello</name>
+	<artifactId>strategy-pattern</artifactId>
+	<name>strategy-pattern</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

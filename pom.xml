@@ -41,7 +41,6 @@
 		</pluginManagement>
 	</build>
 	<modules>
-		<module>design-patterns-hello</module>
 		<module>strategy-pattern</module>
 	</modules>
 </project>
