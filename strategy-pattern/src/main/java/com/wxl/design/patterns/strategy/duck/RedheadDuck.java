@@ -1,4 +1,5 @@
-package com.wangxuelong.example.patterns.hello;
+package com.wxl.design.patterns.strategy.duck;
+
 
 /**
  * 红头鸭
