@@ -44,5 +44,6 @@
 		<module>observer-pattern</module>
 		<module>decorate-pattern</module>
     <module>factory-parttern</module>
+    <module>singleton-pattern</module>
   </modules>
 </project>
