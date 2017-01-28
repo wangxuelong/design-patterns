@@ -45,5 +45,6 @@
 		<module>decorate-pattern</module>
     <module>factory-parttern</module>
     <module>singleton-pattern</module>
+    <module>command-pattern</module>
   </modules>
 </project>
