@@ -47,5 +47,6 @@
     <module>singleton-pattern</module>
     <module>command-pattern</module>
     <module>template-method-pattern</module>
+    <module>iterator-pattern</module>
   </modules>
 </project>
