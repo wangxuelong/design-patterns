@@ -48,5 +48,6 @@
     <module>command-pattern</module>
     <module>template-method-pattern</module>
     <module>iterator-pattern</module>
+    <module>composite-pattern</module>
   </modules>
 </project>
