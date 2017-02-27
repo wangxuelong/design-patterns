@@ -62,6 +62,16 @@ public class GumballMachine {
 		}
 	}
 
+	/**
+	 * 重新装填
+	 * 
+	 * @param count
+	 */
+	public void refill(int count) {
+		this.count = count;
+		state = noQuarterState;
+	}
+
 	public State getHasQuarterState() {
 		return hasQuarterState;
 	}
